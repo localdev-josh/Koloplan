@@ -43,6 +43,7 @@ class ApiError {
         errorCode: error?.response?.statusCode, errorDescription: description);
   }
 
+  // Navigate without context
   // locator<NavigationService>().navigateTo1(TemporaryLoginScreen.route());
   static String extractDescriptionFromResponse(Response response) {
     if (response?.data != null && response.data['message'] != null) {
