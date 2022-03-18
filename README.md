@@ -1,7 +1,7 @@
 # Koloplan: Leap into the world of Finance management [![PRs Welcome](https://img.shields.io/twitter/follow/hey_seun.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/hey_seun.svg?style=social)](https://twitter.com/hey_seun)
 
 
-A repository to demonstrate the working mobile application of the Koloplan (Dukka interview) platform. (A finance management tool).
+A repository to demonstrate the working mobile application of the Koloplan platform. (A finance management tool).
 
 
 ## Getting started
